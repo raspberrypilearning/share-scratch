@@ -56,7 +56,7 @@
 
 --- /print-only ---
 
-- Click on the **Copy link** button to get the link to your project.
+- Click on the **Copy link** button to get the link to your project. You can send this link to other people by email, text or on social media.
 
 --- no-print ---
 
