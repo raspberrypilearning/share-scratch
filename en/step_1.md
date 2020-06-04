@@ -1,58 +1,71 @@
-## Introduction
-
-Add project description here. What will learners be making?
-
-### What you will make
-
 --- no-print ---
-Add instructions for using the embedded content here.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![name_file.gif](images/name_file.gif)
+
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+
+![name_file.png](images/name_file.png)
+
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+--- no-print ---
 
-+ Describe hardware here
+![share.gif](images/share.gif)
 
-### Software
+--- /no-print ---
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+--- print-only ---
 
-### Downloads
+![share.png](images/share.png)
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+--- /print-only ---
 
---- /collapse ---
+--- no-print ---
 
---- collapse ---
----
-title: What you will learn
----
+![add_instructions.gif](images/add_instructions.gif)
 
-+ Two or three learning objectives
-+ ...should go here
+--- /no-print ---
 
---- /collapse ---
+--- print-only ---
 
---- collapse ---
----
-title: Additional information for educators
----
+![add_instructions.png](images/add_instructions.png)
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+--- /print-only ---
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+--- no-print ---
 
---- /collapse ---
+![notes_and_credits.gif](images/notes_and_credits.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![notes_and_credits.png](images/notes_and_credits.png)
+
+--- /print-only ---
+
+--- no-print ---
+
+![copy_link.gif](images/copy_link.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![copy_link.png](images/copy_link.png)
+
+--- /print-only ---
+
+--- no-print ---
+
+![add_comments.gif](images/add_comments.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
+![add_comments.png](images/add_comments.png)
+
+--- /print-only ---
