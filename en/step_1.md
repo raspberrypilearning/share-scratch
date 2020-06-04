@@ -1,6 +1,6 @@
 --- no-print ---
 
-![name_file.gif](images/name_file_2.gif)
+![name_file.gif](images/name_file.gif)
 
 --- /no-print ---
 
