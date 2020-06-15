@@ -1,4 +1,4 @@
-- Please make sure you **do not** share any personal information about yourself, when sharing your Scratch porjects.
+- Please make sure you **do not** share any personal information about yourself, when sharing your Scratch projects.
 
 - Make sure you give your Scratch project a name.
 
@@ -28,7 +28,7 @@
 
 --- /print-only ---
 
-- You can add instructions for how to use your project.
+- You can add instructions on how to use your project.
 
 --- no-print ---
 
