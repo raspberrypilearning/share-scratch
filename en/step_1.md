@@ -70,7 +70,11 @@
 
 --- /print-only ---
 
-- You, and other users, can add comments about the project.
+- Scratch provides the ability to comment on your own and other's projects. If you are under thirteen, or don't want to allow people to comment on your project, it is probably best to turn off commenting.
+
+![comments-off.png](images/comments-off.png)
+
+- If you are happy and feel safe enough to allow people to write comments on your project, then you can leave the first comment.
 
 --- no-print ---
 
