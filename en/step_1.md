@@ -1,4 +1,4 @@
-- Please make sure you **do not** share any personal information about yourself, when sharing your Scratch porjects.
+- Please make sure you **do not** share any personal information about yourself, when sharing your Scratch projects.
 
 - Make sure you give your Scratch project a name.
 
@@ -28,7 +28,7 @@
 
 --- /print-only ---
 
-- You can add instructions for how to use your project.
+- You can add instructions on how to use your project.
 
 --- no-print ---
 
@@ -70,7 +70,11 @@
 
 --- /print-only ---
 
-- You, and other users, can add comments about the project.
+- Scratch provides the ability to comment on your own and other's projects. If you are under thirteen, or don't want to allow people to comment on your project, it is probably best to turn off commenting.
+
+![comments-off.png](images/comments-off.png)
+
+- If you are happy and feel safe enough to allow people to write comments on your project, then you can leave the first comment.
 
 --- no-print ---
 
