@@ -28,7 +28,7 @@
 
 --- /print-only ---
 
-- You can add instructions to tell other people how to use your project.
+- If you like, you can add instructions to tell other people how to use your project.
 
 --- no-print ---
 
@@ -42,7 +42,7 @@
 
 --- /print-only ---
 
-- If this is an original project, you can add some simple comments. If you have remixed it, you can credit the original author.
+- If this is an original project, you can add some short comments. If you have remixed it, you can credit the original creator.
 
 --- no-print ---
 
@@ -70,11 +70,11 @@
 
 --- /print-only ---
 
-- Scratch provides the ability to comment on your own and other people's projects. If you are under 13 years old, or do not want to allow people to comment on your project, it is probably best to turn off commenting.
+- Scratch provides the ability to comment on your own and other people's projects. If you are under 13 years old, or do not want to allow people to comment on your project, you should turn off commenting.
 
 ![comments-off.png](images/comments-off.png)
 
-- If you are happy and feel safe enough to allow people to write comments on your project, you can leave the first comment.
+- If you are happy and feel safe to allow people to write comments on your project, you can leave the first comment.
 
 --- no-print ---
 
