@@ -69,3 +69,7 @@
 ![copy_link.png](images/copy_link.png)
 
 --- /print-only ---
+
+Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting.
+
+![comments-off.png](images/comments-off.png)
