@@ -10,7 +10,7 @@
 
 --- print-only ---
 
-![name_file.png](images/name_file.png)
+![name_file.png](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
@@ -24,7 +24,7 @@
 
 --- print-only ---
 
-![share.png](images/share.png)
+![share.png](images/share.png){:width="300px"}
 
 --- /print-only ---
 
@@ -38,7 +38,7 @@
 
 --- print-only ---
 
-![add_instructions.png](images/add_instructions.png)
+![add_instructions.png](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
@@ -52,7 +52,7 @@
 
 --- print-only ---
 
-![notes_and_credits.png](images/notes_and_credits.png)
+![notes_and_credits.png](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
@@ -66,10 +66,10 @@
 
 --- print-only ---
 
-![copy_link.png](images/copy_link.png)
+![copy_link.png](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
 Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting.
 
-![comments-off.png](images/comments-off.png)
+![comments-off.png](images/comments-off.png){:width="300px"}
