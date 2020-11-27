@@ -1,4 +1,4 @@
-- Please make sure that you **do not** share any personal information about yourself when sharing your Scratch projects.
+Please make sure that you **do not** share any personal information about yourself when sharing your Scratch projects.
 
 - Give your Scratch project a name.
 
