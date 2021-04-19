@@ -4,13 +4,13 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- no-print ---
 
-![name_file.gif](images/name_file.gif)
+![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![name_file.png](images/name_file.png){:width="300px"}
+![The new name 'Walking Cat' highlighted, to the left of the orange 'Share' button.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
@@ -18,13 +18,13 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- no-print ---
 
-![share.gif](images/share.gif)
+![Clicking the orange 'Share' button at the top of the screen. Then the message 'Your project is now shared' appears to confirm that the project is now public.](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![share.png](images/share.png){:width="300px"}
+![The orange 'Share' button highlighted.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
@@ -32,13 +32,13 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- no-print ---
 
-![add_instructions.gif](images/add_instructions.gif)
+![Typing "Watch the cat walk" in the 'Instructions' box.](images/add_instructions.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![add_instructions.png](images/add_instructions.png){:width="300px"}
+![The 'Instructions' box showing "Watch the cat walk" typed in as the instructions.](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
@@ -46,13 +46,13 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- no-print ---
 
-![notes_and_credits.gif](images/notes_and_credits.gif)
+![Typing "Made by The Raspberry Pi Foundation" in the 'Notes and Credits' box.](images/notes_and_credits.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![notes_and_credits.png](images/notes_and_credits.png){:width="300px"}
+![The 'Notes and Credits' box showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
@@ -60,16 +60,16 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- no-print ---
 
-![copy_link.gif](images/copy_link.gif)
+![Clicking on 'Copy Link', highlighting the URL, and selecting 'Copy link'.](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![copy_link.png](images/copy_link.png){:width="300px"}
+![The 'Copy link' text highlighted.](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
 Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting.
 
-![comments-off.png](images/comments-off.png){:width="300px"}
+![The 'Commenting off' slider above the 'Comments' box is in the off position. A message is shown saying 'Sorry, comment posting has been turned off for this project.](images/comments-off.png){:width="300px"}
