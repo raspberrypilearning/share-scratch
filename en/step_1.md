@@ -4,7 +4,7 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name it in the box to the left of the orange 'Share' button.](images/name_file.gif)
+![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button.](images/name_file.gif)
 
 --- /no-print ---
 
@@ -18,7 +18,7 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- no-print ---
 
-![Clicking the orange 'Share' button at the top of the screen.](images/share.gif)
+![Clicking the orange 'Share' button at the top of the screen. Then the message 'Your project is now shared' appears to confirm that the project is now public.](images/share.gif)
 
 --- /no-print ---
 
@@ -72,4 +72,4 @@ Please make sure that you **do not** share any personal information about yourse
 
 Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting.
 
-![The 'Commenting off' slider above the 'Comments' box.](images/comments-off.png){:width="300px"}
+![The 'Commenting off' slider above the 'Comments' box is in the off position. A message is shown saying 'Sorry, comment posting has been turned off for this project.](images/comments-off.png){:width="300px"}
