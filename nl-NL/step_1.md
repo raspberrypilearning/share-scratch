@@ -4,13 +4,13 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button.](images/name_file.gif)
+![Verander "Untitled" naar "Wandelende kat" om het project een naam te geven, in het vak links van de oranje 'Share'-knop.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The new name 'Walking Cat' highlighted, to the left of the orange 'Share' button.](images/name_file.png){:width="300px"}
+![De nieuwe naam 'Wandelende kat' is gemarkeerd, links van de oranje 'Share'-knop.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
@@ -18,13 +18,13 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- no-print ---
 
-![Clicking the orange 'Share' button at the top of the screen. Then the message 'Your project is now shared' appears to confirm that the project is now public.](images/share.gif)
+![Klik op de oranje knop 'Delen' bovenaan het scherm. Vervolgens verschijnt het bericht 'Gefeliciteerd! Je hebt je project gedeeld!' om te bevestigen dat het project nu openbaar is.](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The orange 'Share' button highlighted.](images/share.png){:width="300px"}
+![De oranje 'Delen'-knop is gemarkeerd.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
@@ -32,13 +32,13 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- no-print ---
 
-![Typing "Watch the cat walk" in the 'Instructions' box.](images/add_instructions.gif)
+![Typ "Kijk naar de kat die loopt" in het vak 'Instructies'.](images/add_instructions.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Instructions' box showing "Watch the cat walk" typed in as the instructions.](images/add_instructions.png){:width="300px"}
+![Het vak 'Instructies' toont "Kijk hoe de kat loopt" zoals getypt in de instructies.](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
@@ -46,13 +46,13 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- no-print ---
 
-![Typing "Made by The Raspberry Pi Foundation" in the 'Notes and Credits' box.](images/notes_and_credits.gif)
+![Typ "Gemaakt door de Raspberry Pi Foundation" in het vak 'Opmerkingen en credits'.](images/notes_and_credits.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Notes and Credits' box showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
+![Het vak 'Opmerkingen en credits' toont "Made by The Raspberry Pi Foundation" als getypt.](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
@@ -60,16 +60,16 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- no-print ---
 
-![Clicking on 'Copy Link', highlighting the URL, and selecting 'Copy link'.](images/copy_link.gif)
+![Klik op 'Link kopiëren', markeer de URL en selecteer 'Link kopiëren'.](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Copy link' text highlighted.](images/copy_link.png){:width="300px"}
+![De tekst 'Link kopiëren' is gemarkeerd.](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting.
+Scratch biedt de mogelijkheid om commentaar te geven op je eigen en andermans projecten. Als je niet wilt dat mensen commentaar geven op je project, moet je commentaar uitschakelen.
 
-![The 'Commenting off' slider above the 'Comments' box is in the off position. A message is shown saying 'Sorry, comment posting has been turned off for this project.](images/comments-off.png){:width="300px"}
+![De schuifregelaar 'Commentaar' boven het vak 'Opmerkingen' staat op uit. Er wordt een bericht weergegeven met de tekst 'Sorry, bij dit project is de mogelijkheid opmerkingen te plaatsen uit gezet'.](images/comments-off.png){:width="300px"}
