@@ -1,6 +1,6 @@
-Please make sure that you **do not** share any personal information about yourself when sharing your Scratch projects.
+Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jouw Scratch projecten deelt.
 
-- Give your Scratch project a name.
+- Geef je Scratch-project een naam.
 
 --- no-print ---
 
@@ -14,7 +14,7 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- /print-only ---
 
-- Click the **Share** button to make the project public.
+- Klik op de **Delen** knop om het project openbaar te maken.
 
 --- no-print ---
 
@@ -28,7 +28,7 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- /print-only ---
 
-- If you like, you can add instructions to tell other people how to use your project.
+- Als je wilt, kun je instructies toevoegen om andere mensen te vertellen hoe ze je project kunnen gebruiken.
 
 --- no-print ---
 
@@ -42,7 +42,7 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- /print-only ---
 
-- If this is an original project, you can add some short comments. If you have remixed it, you can credit the original creator.
+- Als dit een origineel project is, kun je enkele korte opmerkingen toevoegen. Als je het hebt ge-remixed, mag je de naam van de oorspronkelijke maker vermelden.
 
 --- no-print ---
 
@@ -56,7 +56,7 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- /print-only ---
 
-- Click the **Copy Link** button to get the link to your project. You can send this link to other people by email or text, or on social media.
+- Klik op de **Kopieer link** om de link naar je project te krijgen. Je kunt deze link naar andere mensen sturen via e-mail of sms, of op sociale media.
 
 --- no-print ---
 
