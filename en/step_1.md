@@ -24,11 +24,11 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- print-only ---
 
-![The orange 'Share' button highlighted.](images/share.png){:width="300px"}
+![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- If you like, you can add instructions to tell other people how to use your project.
+- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
 
 --- no-print ---
 
@@ -42,7 +42,7 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- /print-only ---
 
-- If this is an original project, you can add some short comments. If you have remixed it, you can credit the original creator.
+- In the **Notes and Credits** box, if your project is an original project, you can write some short comments. If you have remixed a project, you can credit the original creator.
 
 --- no-print ---
 
@@ -70,6 +70,6 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- /print-only ---
 
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting.
+Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
 
 ![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
