@@ -4,13 +4,13 @@ Fais attention de **ne pas** partager tes informations personnelles quand tu par
 
 --- no-print ---
 
-![Change le titre de "Sans-titre" à "Chat qui marche" pour nommer le projet, dans la case à gauche du bouton orange « Partager ».](images/name_file.gif)
+![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Le nouveau nom « Chat qui marche » est mis en surbrillance, à gauche du bouton orange « Partager ».](images/name_file.png){:width="300px"}
+![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
@@ -18,7 +18,7 @@ Fais attention de **ne pas** partager tes informations personnelles quand tu par
 
 --- no-print ---
 
-![Clique sur le bouton orange « Partager » en haut de l'écran. Ensuite, le message « Ton projet est maintenant partagé » apparaît pour confirmer que le projet est maintenant public.](images/share.gif)
+![Clique sur le bouton orange « Partager » en haut de l'écran. Then, a message appears saying "Your project is now shared."](images/share.gif)
 
 --- /no-print ---
 
@@ -38,7 +38,7 @@ Fais attention de **ne pas** partager tes informations personnelles quand tu par
 
 --- print-only ---
 
-![La case « Instructions » indiquant "Regardez le chat qui marche" saisie comme instructions.](images/add_instructions.png){:width="300px"}
+![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
@@ -52,7 +52,7 @@ Fais attention de **ne pas** partager tes informations personnelles quand tu par
 
 --- print-only ---
 
-![La boîte « Notes et crédits » montrant "Créé par la Fondation Raspberry Pi" saisi.](images/notes_and_credits.png){:width="300px"}
+![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
@@ -60,16 +60,16 @@ Fais attention de **ne pas** partager tes informations personnelles quand tu par
 
 --- no-print ---
 
-![Clique sur « Copier le lien », mets l'URL en surbrillance et sélectionne « Copier le lien ».](images/copy_link.gif)
+![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Le texte « Copier le lien » mis en surbrillance.](images/copy_link.png){:width="300px"}
+![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
 Scratch offre la possibilité de commenter tes propres projets et ceux des autres. Si tu ne souhaites pas autoriser les utilisateurs à commenter ton projet, tu dois désactiver les commentaires.
 
-![Le curseur « Commentaires désactivés » au-dessus de la case « Commentaires » est sur désactivé. Un message s'affiche indiquant « Désolé, mais l'envoi de commentaires a été désactivé pour ce projet.](images/comments-off.png){:width="300px"}
+![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
