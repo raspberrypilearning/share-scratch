@@ -4,13 +4,13 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- no-print ---
 
-![Verander "Untitled" naar "Wandelende kat" om het project een naam te geven, in het vak links van de oranje 'Share'-knop.](images/name_file.gif)
+![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![De nieuwe naam 'Wandelende kat' is gemarkeerd, links van de oranje 'Share'-knop.](images/name_file.png){:width="300px"}
+![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
@@ -18,7 +18,7 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- no-print ---
 
-![Klik op de oranje knop 'Delen' bovenaan het scherm. Vervolgens verschijnt het bericht 'Gefeliciteerd! Je hebt je project gedeeld!' om te bevestigen dat het project nu openbaar is.](images/share.gif)
+![Klik op de oranje knop 'Delen' bovenaan het scherm. Then, a message appears saying "Your project is now shared."](images/share.gif)
 
 --- /no-print ---
 
@@ -38,7 +38,7 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- print-only ---
 
-![Het vak 'Instructies' toont "Kijk hoe de kat loopt" zoals getypt in de instructies.](images/add_instructions.png){:width="300px"}
+![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
@@ -52,7 +52,7 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- print-only ---
 
-![Het vak 'Opmerkingen en credits' toont "Made by The Raspberry Pi Foundation" als getypt.](images/notes_and_credits.png){:width="300px"}
+![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
@@ -60,16 +60,16 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- no-print ---
 
-![Klik op 'Link kopiëren', markeer de URL en selecteer 'Link kopiëren'.](images/copy_link.gif)
+![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![De tekst 'Link kopiëren' is gemarkeerd.](images/copy_link.png){:width="300px"}
+![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
 Scratch biedt de mogelijkheid om commentaar te geven op je eigen en andermans projecten. Als je niet wilt dat mensen commentaar geven op je project, moet je commentaar uitschakelen.
 
-![De schuifregelaar 'Commentaar' boven het vak 'Opmerkingen' staat op uit. Er wordt een bericht weergegeven met de tekst 'Sorry, bij dit project is de mogelijkheid opmerkingen te plaatsen uit gezet'.](images/comments-off.png){:width="300px"}
+![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
