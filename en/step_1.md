@@ -42,7 +42,7 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- /print-only ---
 
-- In the **Notes and Credits** box, if your project is an original project, you can write some short comments. If you have remixed a project, you can credit the original creator.
+- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
 
 --- no-print ---
 
