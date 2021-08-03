@@ -24,11 +24,11 @@ Por favor, verifique se **não** compartilhou nenhuma informação pessoal quand
 
 --- print-only ---
 
-![O botão laranja "Compartilhar" destacado.](images/share.png){:width="300px"}
+![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- Se quiser, você pode adicionar instruções para os outros saberem como usar seu projeto.
+- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
 
 --- no-print ---
 
@@ -42,7 +42,7 @@ Por favor, verifique se **não** compartilhou nenhuma informação pessoal quand
 
 --- /print-only ---
 
-- Se for um projeto original, você pode adicionar alguns pequenos comentários. Se você o remixou, pode dar os créditos o criador original.
+- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
 
 --- no-print ---
 
@@ -70,6 +70,6 @@ Por favor, verifique se **não** compartilhou nenhuma informação pessoal quand
 
 --- /print-only ---
 
-O Scratch permite comentar em seu próprio projeto e em projetos dos outros. Se você não quiser permitir que as pessoas comentem seu projeto, desative os comentários.
+O Scratch permite comentar em seu próprio projeto e em projetos dos outros. Se você não quiser permitir que as pessoas comentem seu projeto, desative os comentários. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
 
 ![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
