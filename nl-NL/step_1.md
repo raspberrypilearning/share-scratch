@@ -24,11 +24,11 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- print-only ---
 
-![De oranje 'Delen'-knop is gemarkeerd.](images/share.png){:width="300px"}
+![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- Als je wilt, kun je instructies toevoegen om andere mensen te vertellen hoe ze je project kunnen gebruiken.
+- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
 
 --- no-print ---
 
@@ -42,7 +42,7 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- /print-only ---
 
-- Als dit een origineel project is, kun je enkele korte opmerkingen toevoegen. Als je het hebt ge-remixed, mag je de naam van de oorspronkelijke maker vermelden.
+- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
 
 --- no-print ---
 
@@ -70,6 +70,6 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- /print-only ---
 
-Scratch biedt de mogelijkheid om commentaar te geven op je eigen en andermans projecten. Als je niet wilt dat mensen commentaar geven op je project, moet je commentaar uitschakelen.
+Scratch biedt de mogelijkheid om commentaar te geven op je eigen en andermans projecten. Als je niet wilt dat mensen commentaar geven op je project, moet je commentaar uitschakelen. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
 
 ![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
