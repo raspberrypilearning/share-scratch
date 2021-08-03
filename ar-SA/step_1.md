@@ -24,11 +24,11 @@
 
 --- print-only ---
 
-![تم تمييز زر "مشاركة" البرتقالي.](images/share.png){:width="300px"}
+![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- إذا كنت ترغب في ذلك ، يمكنك إضافة تعليمات لإخبار الآخرين بكيفية استخدام مشروعك.
+- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
 
 --- no-print ---
 
@@ -42,7 +42,7 @@
 
 --- /print-only ---
 
-- إذا كان هذا مشروعًا أصليًا ، فيمكنك إضافة بعض التعليقات القصيرة. إذا كنت قد أعدت مزجها ، فيمكنك أن تنسب إلى المنشئ الأصلي.
+- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
 
 --- no-print ---
 
@@ -70,6 +70,6 @@
 
 --- /print-only ---
 
-يوفر سكراتش القدرة على التعليق على مشاريعك الخاصة ومشاريع الآخرين. إذا كنت لا تريد السماح للأشخاص بالتعليق على مشروعك ، فيجب عليك إيقاف التعليق.
+يوفر سكراتش القدرة على التعليق على مشاريعك الخاصة ومشاريع الآخرين. إذا كنت لا تريد السماح للأشخاص بالتعليق على مشروعك ، فيجب عليك إيقاف التعليق. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
 
 ![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
