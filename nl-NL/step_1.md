@@ -18,7 +18,7 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- no-print ---
 
-![Klik op de oranje knop 'Delen' bovenaan het scherm. Vervolgens verschijnt het bericht 'Gefeliciteerd! Je hebt je project gedeeld!' om te bevestigen dat het project nu openbaar is.](images/share.gif)
+![Klik op de oranje knop 'Delen' bovenaan het scherm. Vervolgens verschijnt het bericht "Gefeliciteerd! Je hebt je project gedeeld!" om te bevestigen dat het project nu openbaar is.](images/share.gif)
 
 --- /no-print ---
 
@@ -28,7 +28,7 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- /print-only ---
 
-- Als je wilt, kun je instructies toevoegen om andere mensen te vertellen hoe ze je project kunnen gebruiken.
+- Als je wilt, kun je instructies toevoegen in het **Instructies** vak om andere mensen te vertellen hoe ze je project kunnen gebruiken.
 
 --- no-print ---
 
@@ -42,7 +42,7 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- /print-only ---
 
-- Als dit een origineel project is, kun je enkele korte opmerkingen toevoegen. Als je het hebt ge-remixed, mag je de naam van de oorspronkelijke maker vermelden.
+- Je kunt ook het **Opmerkingen en credits** veld invullen: als je een origineel project hebt gemaakt, kun je een paar korte opmerkingen schrijven, of als je een project hebt geremixt, kun je de oorspronkelijke maker crediteren.
 
 --- no-print ---
 
@@ -60,7 +60,7 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- no-print ---
 
-![Klik op 'Link kopiëren', markeer de URL en selecteer 'Link kopiëren'.](images/copy_link.gif)
+![Door op 'Kopieer link' te klikken, wordt een dialoogvenster 'Kopieer link' geopend. Klik op 'Link kopiëren', markeer de URL en selecteer 'Link kopiëren'.](images/copy_link.gif)
 
 --- /no-print ---
 
@@ -70,6 +70,6 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- /print-only ---
 
-Scratch biedt de mogelijkheid om commentaar te geven op je eigen en andermans projecten. Als je niet wilt dat mensen commentaar geven op je project, moet je commentaar uitschakelen.
+Scratch biedt de mogelijkheid om commentaar te geven op je eigen en andermans projecten. Als je niet wilt dat mensen commentaar geven op je project, moet je commentaar uitschakelen. Om opmerkingen uit te schakelen stel je de schuifregelaar boven het **Opmerkingen** vak in op **Opmerkingen uit**.
 
-![De schuifregelaar 'Commentaar' boven het vak 'Opmerkingen' staat op uit. Er wordt een bericht weergegeven met de tekst 'Sorry, bij dit project is de mogelijkheid opmerkingen te plaatsen uit gezet'.](images/comments-off.png){:width="300px"}
+![De schuifregelaar 'Commentaar' boven het vak 'Opmerkingen' staat op uit. Er wordt een bericht weergegeven met de tekst "Sorry, bij dit project is de mogelijkheid opmerkingen te plaatsen uit gezet."](images/comments-off.png){:width="300px"}
