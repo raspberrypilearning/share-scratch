@@ -4,13 +4,13 @@ Fais attention de **ne pas** partager tes informations personnelles quand tu par
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
+![Change "Sans titre" par "Chat qui marche" pour nommer le projet, dans la case à gauche du bouton orange « Partager » en haut de l'écran.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
+![La case du nom du projet avec le nouveau nom « Chat qui marche » en surbrillance, à gauche du bouton orange « Partager » en haut de l'écran.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
@@ -18,17 +18,17 @@ Fais attention de **ne pas** partager tes informations personnelles quand tu par
 
 --- no-print ---
 
-![Clique sur le bouton orange « Partager » en haut de l'écran. Then, a message appears saying "Your project is now shared."](images/share.gif)
+![Clique sur le bouton orange « Partager » en haut de l'écran. Ensuite, un message apparaît indiquant "Ton projet est maintenant partagé."](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
+![Le bouton orange « Partager » en haut de l'écran en surbrillance.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
+- Si tu le souhaites, tu peux ajouter des instructions dans la section **Instructions**, pour indiquer aux autres comment utiliser ton projet.
 
 --- no-print ---
 
@@ -38,11 +38,11 @@ Fais attention de **ne pas** partager tes informations personnelles quand tu par
 
 --- print-only ---
 
-![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
+![La case « Instructions » indiquant "Regardez le chat qui marche" saisie comme instructions.](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
-- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
+- Tu peux également remplir **Notes et Crédits** : si tu as fait un projet original, tu peux écrire quelques petits commentaires, ou si tu as remixé un projet, tu peux créditer le créateur original.
 
 --- no-print ---
 
@@ -52,7 +52,7 @@ Fais attention de **ne pas** partager tes informations personnelles quand tu par
 
 --- print-only ---
 
-![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
+![La boîte « Notes et crédits » montrant "Créé par la Fondation Raspberry Pi" saisi.](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
@@ -60,16 +60,16 @@ Fais attention de **ne pas** partager tes informations personnelles quand tu par
 
 --- no-print ---
 
-![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
+![En cliquant sur « Copier le lien », une boîte de dialogue « Copier le lien » s'ouvre. Ensuite, dans la boîte de dialogue, sélectionne l'URL sous « Lien » et sélectionne « Copier le lien ».](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
+![Le bouton « Copier le lien » mis en surbrillance, dans la boîte de dialogue « Copier le lien ».](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
-Scratch offre la possibilité de commenter tes propres projets et ceux des autres. Si tu ne souhaites pas autoriser les utilisateurs à commenter ton projet, tu dois désactiver les commentaires. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
+Scratch offre la possibilité de commenter tes propres projets et ceux des autres. Si tu ne souhaites pas autoriser les utilisateurs à commenter ton projet, tu dois désactiver les commentaires. Pour désactiver les commentaires, règle le curseur au-dessus de la case **Commentaires** sur **Commentaire désactivé**.
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![Le curseur au-dessus de la case « Commentaires » est en position « Commentaire désactivé ». Un message s'affiche indiquant « Désolé, mais l'envoi de commentaires a été désactivé pour ce projet».](images/comments-off.png){:width="300px"}
