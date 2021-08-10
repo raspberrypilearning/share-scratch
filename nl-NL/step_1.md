@@ -4,13 +4,13 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
+![Verander "Untitled" naar "Wandelende kat" om het project een naam te geven, in het vak links van de oranje 'Share'-knop.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
+![De nieuwe naam 'Wandelende kat' is gemarkeerd, links van de oranje 'Share'-knop.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
@@ -18,17 +18,17 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- no-print ---
 
-![Klik op de oranje knop 'Delen' bovenaan het scherm. Then, a message appears saying "Your project is now shared."](images/share.gif)
+![Klik op de oranje knop 'Delen' bovenaan het scherm. Vervolgens verschijnt het bericht "Gefeliciteerd! Je hebt je project gedeeld!" om te bevestigen dat het project nu openbaar is.](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
+![De oranje 'Delen'-knop is gemarkeerd.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
+- Als je wilt, kun je instructies toevoegen in het **Instructies** vak om andere mensen te vertellen hoe ze je project kunnen gebruiken.
 
 --- no-print ---
 
@@ -38,11 +38,11 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- print-only ---
 
-![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
+![Het vak 'Instructies' toont "Kijk hoe de kat loopt" zoals getypt in de instructies.](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
-- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
+- Je kunt ook het **Opmerkingen en credits** veld invullen: als je een origineel project hebt gemaakt, kun je een paar korte opmerkingen schrijven, of als je een project hebt geremixt, kun je de oorspronkelijke maker crediteren.
 
 --- no-print ---
 
@@ -52,7 +52,7 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- print-only ---
 
-![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
+![Het vak 'Opmerkingen en credits' toont "Made by The Raspberry Pi Foundation" als getypt.](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
@@ -60,16 +60,16 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- no-print ---
 
-![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
+![Door op 'Kopieer link' te klikken, wordt een dialoogvenster 'Kopieer link' geopend. Klik op 'Link kopiëren', markeer de URL en selecteer 'Link kopiëren'.](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
+![De tekst 'Link kopiëren' is gemarkeerd.](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
-Scratch biedt de mogelijkheid om commentaar te geven op je eigen en andermans projecten. Als je niet wilt dat mensen commentaar geven op je project, moet je commentaar uitschakelen. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
+Scratch biedt de mogelijkheid om commentaar te geven op je eigen en andermans projecten. Als je niet wilt dat mensen commentaar geven op je project, moet je commentaar uitschakelen. Om opmerkingen uit te schakelen stel je de schuifregelaar boven het **Opmerkingen** vak in op **Opmerkingen uit**.
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![De schuifregelaar 'Commentaar' boven het vak 'Opmerkingen' staat op uit. Er wordt een bericht weergegeven met de tekst "Sorry, bij dit project is de mogelijkheid opmerkingen te plaatsen uit gezet."](images/comments-off.png){:width="300px"}
