@@ -4,13 +4,13 @@ Por favor, verifique se **não** compartilhou nenhuma informação pessoal quand
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
+![Altere "Sem Título" para "Gato Caminhando", para nomear seu projeto, na caixa à esquerda do botão laranja "Compartilhar".](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
+![A caixa do nome do projeto com o novo nome 'Walking Cat' destacado, à esquerda do botão laranja 'Compartilhar' na parte superior da tela.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
@@ -18,17 +18,17 @@ Por favor, verifique se **não** compartilhou nenhuma informação pessoal quand
 
 --- no-print ---
 
-![Clique no botão laranja "Compartilhar" no topo da tela. Then, a message appears saying "Your project is now shared."](images/share.gif)
+![Clique no botão laranja "Compartilhar" no topo da tela. Em seguida, aparece uma mensagem dizendo "Seu projeto agora está compartilhado."](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
+![O botão laranja 'Compartilhar' na parte superior da tela destacado.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
+- Se desejar, você pode adicionar instruções na caixa **Instruções**, para dizer a outras pessoas como usar seu projeto.
 
 --- no-print ---
 
@@ -38,11 +38,11 @@ Por favor, verifique se **não** compartilhou nenhuma informação pessoal quand
 
 --- print-only ---
 
-![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
+![A caixa de "Instruções" mostrando "Assista o gato caminhando" digitado como instruções.](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
-- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
+- Você também pode preencher a caixa **Notas e créditos**: se você fez um projeto original, pode escrever alguns comentários curtos, ou se tiver remixado um projeto, pode creditar o criador original.
 
 --- no-print ---
 
@@ -52,7 +52,7 @@ Por favor, verifique se **não** compartilhou nenhuma informação pessoal quand
 
 --- print-only ---
 
-![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
+![A caixa de "Notas e Créditos" mostrando "Criado pela Fundação Raspberry Pi".](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
@@ -60,16 +60,16 @@ Por favor, verifique se **não** compartilhou nenhuma informação pessoal quand
 
 --- no-print ---
 
-![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
+![Clicar em 'Copiar link' abre uma caixa de diálogo 'Copiar link'. Em seguida, na caixa de diálogo, destaque o URL em 'Link' e selecione 'Copiar link'.](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
+![O botão 'Copiar link' destacado na caixa de diálogo 'Copiar link'.](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
-O Scratch permite comentar em seu próprio projeto e em projetos dos outros. Se você não quiser permitir que as pessoas comentem seu projeto, desative os comentários. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
+O Scratch permite comentar em seu próprio projeto e em projetos dos outros. Se você não quiser permitir que as pessoas comentem seu projeto, desative os comentários. Para desativar os comentários, defina o controle deslizante acima da caixa **Comentários** **Comentários desativados**.
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![O controle deslizante acima da caixa 'Comentários' está na posição 'Comentários desativados'. Uma mensagem é exibida dizendo "Desculpe, a postagem de comentários foi desativada para este projeto."](images/comments-off.png){:width="300px"}
