@@ -4,13 +4,13 @@
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
+![تغيير "بدون عنوان" إلى "قط يمشي " لتسمية المشروع ، في المربع الموجود على يسار زر "مشاركة" البرتقالي.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
+![مربع اسم المشروع مع تمييز الاسم الجديد "Walking Cat" ، على يسار زر "مشاركة" البرتقالي أعلى الشاشة.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
@@ -18,17 +18,17 @@
 
 --- no-print ---
 
-![النقر فوق الزر البرتقالي "مشاركة" أعلى الشاشة. Then, a message appears saying "Your project is now shared."](images/share.gif)
+![النقر فوق الزر البرتقالي "مشاركة" أعلى الشاشة. بعد ذلك ، تظهر رسالة تقول "الآن مشروعك مشارك ."](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
+![تم تمييز زر "مشاركة" البرتقالي أعلى الشاشة.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
+- إذا كنت ترغب في ذلك ، يمكنك إضافة إرشادات في **تعليمات** ، لإخبار الآخرين بكيفية استخدام مشروعك.
 
 --- no-print ---
 
@@ -38,11 +38,11 @@
 
 --- print-only ---
 
-![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
+![مربع "التعليمات" ، الذي يظهر "مشاهدة القط يمشي" مكتوبًا.](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
-- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
+- يمكنك أيضًا ملء مربع **ملاحظات و اعتمادات** : إذا كنت قد أنشأت مشروعًا أصليًا ، فيمكنك كتابة بعض التعليقات القصيرة ، أو إذا كنت قد أعدت دمج مشروع ، فيمكنك اعتماد المنشئ الأصلي.
 
 --- no-print ---
 
@@ -52,7 +52,7 @@
 
 --- print-only ---
 
-![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
+![مربع "الملاحظات والاعتمادات" ، الذي يظهر "صنع Raspberry Pi Foundation". مكتوبًا فيه.](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
@@ -60,16 +60,16 @@
 
 --- no-print ---
 
-![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
+![النقر فوق "نسخ الرابط" ، والذي يفتح مربع حوار "نسخ الرابط". ثم ، في مربع الحوار ، قم بتمييز عنوان URL ضمن "الرابط" ، واختيار "نسخ الرابط".](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
+![تم تمييز زر "نسخ الرابط" في مربع الحوار "نسخ الرابط".](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
-يوفر سكراتش القدرة على التعليق على مشاريعك الخاصة ومشاريع الآخرين. إذا كنت لا تريد السماح للأشخاص بالتعليق على مشروعك ، فيجب عليك إيقاف التعليق. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
+يوفر سكراتش القدرة على التعليق على مشاريعك الخاصة ومشاريع الآخرين. إذا كنت لا تريد السماح للأشخاص بالتعليق على مشروعك ، فيجب عليك إيقاف التعليق. لإيقاف تشغيل التعليق ، انتقل إلى صفحة المشروع واضبط شريط التمرير أعلى مربع **تعليقات** على ** إيقاف التعليق**.
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![شريط التمرير أعلى مربع "التعليقات" في موقع "إيقاف التعليق". تظهر رسالة تقول "عذرًا ، تم إيقاف نشر التعليقات لهذا المشروع](images/comments-off.png){:width="300px"}
