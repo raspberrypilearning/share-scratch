@@ -1,6 +1,6 @@
-Please make sure that you **do not** share any personal information about yourself when sharing your Scratch projects.
+ನಿಮ್ಮ ಸ್ಕ್ರ್ಯಾಚ್ ಯೋಜನೆಗಳು ಹಂಚಿಕೊಳ್ಳುವಾಗ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ದಯವಿಟ್ಟು **ಹಂಚದಿರಿ**.
 
-- Give your Scratch project a name.
+- ನಿಮ್ಮ ಸ್ಕ್ರಾಚ್ ಯೋಜನೆಗೆ ಹೆಸರನ್ನು ನೀಡಿ.
 
 --- no-print ---
 
@@ -14,7 +14,7 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- /print-only ---
 
-- Click the **Share** button to make the project public.
+- ಯೋಜನೆಯನ್ನು ಇತರರೊಂದಿಗೆ ಹಂಚಲು **Share** ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ.
 
 --- no-print ---
 
@@ -28,7 +28,7 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- /print-only ---
 
-- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
+- ನೀವು ಬಯಸಿದರೆ, **Instructions** ಬಾಕ್ಸ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಯೋಜನೆಯನ್ನು ಹೇಗೆ ಬಳಸಬೇಕೆಂದು ಇತರರಿಗೆ ತಿಳಿಸಲು ಮಾಹಿತಿಯನ್ನು ಸೇರಿಸಬಹುದು.
 
 --- no-print ---
 
@@ -42,7 +42,7 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- /print-only ---
 
-- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
+- **Notes and Credits** ಬಾಕ್ಸ್ ಅನ್ನು ಭರ್ತಿ ಮಾಡಬಹುದು: ನೀವು ಮೂಲ ಪ್ರಾಜೆಕ್ಟ್ ಮಾಡಿದ್ದರೆ, ಕೆಲವು ಸಣ್ಣ ಕಾಮೆಂಟ್‌ಗಳನ್ನು ಬರೆಯಬಹುದು, ಅಥವಾ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ರೀಮಿಕ್ಸ್ ಮಾಡಿದ್ದರೆ, ಮೂಲ ಸೃಷ್ಟಿಕರ್ತರಿಗೆ ಕ್ರೆಡಿಟ್ ಕೂಡ ಕೊಡಬಹುದು.
 
 --- no-print ---
 
@@ -56,7 +56,7 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- /print-only ---
 
-- Click the **Copy Link** button to get the link to your project. You can send this link to other people by email or text, or on social media.
+- ನಿಮ್ಮ ಯೋಜನೆಯ ಲಿಂಕ್ ಪಡೆಯಲು **Copy Link** ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ. ನೀವು ಈ ಲಿಂಕ್ ಅನ್ನು ಇತರರಿಗೆ ಇಮೇಲ್, ಸಂದೆೇಶದ ಮೂಲಕ ಅಥವಾ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮಗಳ ಮೂಲಕವೂ ಕಳುಹಿಸಬಹುದು.
 
 --- no-print ---
 
@@ -70,6 +70,6 @@ Please make sure that you **do not** share any personal information about yourse
 
 --- /print-only ---
 
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
+ಸ್ಕ್ರಾಚ್ ನಿಮ್ಮ ಮತ್ತು ಇತರರ ಯೋಜನೆಗಳ ಬಗ್ಗೆ ಕಾಮೆಂಟ್ ಮಾಡುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಒದಗಿಸುತ್ತದೆ. ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ ಕಾಮೆಂಟ್ ಮಾಡಲು ಜನರಿಗೆ ಅನುಮತಿಸಲು ನೀವು ಬಯಸದಿದ್ದರೆ, ನೀವು ಕಾಮೆಂಟ್ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸಬೇಕು. ಕಾಮೆಂಟ್ ಆಫ್ ಮಾಡಲು, **Comments** ಬಾಕ್ಸ್ ಮೇಲೆ ಇರುವ **Commenting off** ಕಡೆಗೆ ಸ್ಲೈಡ ಮಾಡಿ.
 
 ![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
