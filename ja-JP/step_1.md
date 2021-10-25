@@ -1,75 +1,75 @@
-Please make sure that you **do not** share any personal information about yourself when sharing your Scratch projects.
+Scratchプロジェクトを共有する時には、あなた自身の個人情報を**共有しない**ことを確認してください。
 
-- Give your Scratch project a name.
+- Scratchプロジェクトに名前を付けます。
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
+![プロジェクトに名前を付けるために、画面上部のオレンジ色の「共有する」ボタン左側にあるボックスの「Untitled」を「歩く猫」に変えている。](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
+![画面上部のオレンジ色の「共有する」ボタンの左側にある、新しい名前「歩く猫」が強調表示されたプロジェクト名ボックス。](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Share** button to make the project public.
+- プロジェクトを公開するには**共有する**ボタンをクリックします。
 
 --- no-print ---
 
-![Clicking the orange 'Share' button at the top of the screen. Then, a message appears saying "Your project is now shared."](images/share.gif)
+![画面上部のオレンジ色の「共有する」ボタンをクリックしている。 「プロジェクトが共有されました」というメッセージが表示されます。](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
+![強調表示された、画面上部のオレンジ色の「共有する」ボタン。](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
+- 必要に応じて、**使い方**ボックスに使い方の説明を追加して、プロジェクトの使用方法を他の人に伝えることができます。
 
 --- no-print ---
 
-![Typing "Watch the cat walk" in the 'Instructions' box.](images/add_instructions.gif)
+![「使い方」ボックスに「歩く猫を見てね」と入力している。](images/add_instructions.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
+![入力された「歩く猫を見てね」を表示している「使い方」ボックス。](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
-- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
+- **メモとクレジット**ボックスに入力することもできます。オリジナルのプロジェクトを作成した場合は短いコメントを書くことができ、別のプロジェクトをリミックスした場合は元の作成者のクレジットを付けることができます。
 
 --- no-print ---
 
-![Typing "Made by The Raspberry Pi Foundation" in the 'Notes and Credits' box.](images/notes_and_credits.gif)
+![「ノートとクレジット」ボックスに「Raspberry Pi財団により作成されました」と入力している。](images/notes_and_credits.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
+![入力された「Raspberry Pi財団により作成されました」を表示している「ノートとクレジット」ボックス。](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Copy Link** button to get the link to your project. You can send this link to other people by email or text, or on social media.
+- **リンクをコピー**ボタンをクリックして、プロジェクトへのリンクを取得します。 このリンクは、電子メールやテキスト、またはソーシャルメディアで他の人に送信できます。
 
 --- no-print ---
 
-![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
+![「リンクをコピー」をクリックして「リンクをコピー」ダイアログボックスを開いている。 次に、ダイアログボックスで「リンク」の下のURLを強調表示し、「リンクをコピー」を選択している。](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
+![「リンクをコピー」ダイアログボックスで強調表示された「リンクをコピー」ボタン。](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
+Scratchは自分自身や他の人のプロジェクトにコメントする機能を提供しています。 他の人が自分のプロジェクトへコメントすることを許可したくない場合は、コメント機能をオフにする必要があります。 コメント機能をオフにするには、**コメント**ボックスの上にあるスライダーを**コメントはオフです**に設定します。
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![「コメントはオフです」の位置にある、「コメント」ボックスの上にあるスライダー。 「申し訳ありませんが、 このプロジェクトへのコメント投稿はオフに設定されています。」というメッセージが表示されます。](images/comments-off.png){:width="300px"}
