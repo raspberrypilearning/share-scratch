@@ -4,13 +4,13 @@
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
+![ಪರದೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಕಿತ್ತಳೆ ಬಣ್ಣದ 'Share' ಬಟನ್‌ನ ಎಡಭಾಗದಲ್ಲಿರುವ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ "Untitled" ಅನ್ನು "Walking Cat" ಎಂದು ಹಸರನ್ನು ಬದಲಾಯಿಸಿ.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
+![ಸ್ಕ್ರೀನ್ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಕಿತ್ತಳೆ ಬಣ್ಣದ 'Share' ಬಟನ್‌ನ ಎಡಭಾಗದಲ್ಲಿ 'Walking Cat' ಹೆಸರಿನ ಪ್ರಾಜೆಕ್ಟ್ ನೇಮ್ ಬಾಕ್ಸ್ ಅನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
@@ -18,13 +18,13 @@
 
 --- no-print ---
 
-![Clicking the orange 'Share' button at the top of the screen. Then, a message appears saying "Your project is now shared."](images/share.gif)
+![ಪರದೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಕಿತ್ತಳೆ ಬಣ್ಣದ 'Share' ಬಟನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ. ನಂತರ, "Your project is now shared." ಎಂಬ ಸಂದೇಶ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
+![ಪರದೆಯ ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಕಿತ್ತಳೆ ಬಣ್ಣದ 'Share' ಬಟನ್ ಅನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
