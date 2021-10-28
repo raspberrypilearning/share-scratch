@@ -32,13 +32,13 @@
 
 --- no-print ---
 
-![Typing "Watch the cat walk" in the 'Instructions' box.](images/add_instructions.gif)
+!['Instructions' "Watch the cat walk" ಎಂದು ಟೈಪ್ ಮಾಡಿ.](images/add_instructions.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
+!['Instructions' ಬಾಕ್ಸ್ನಲ್ಲಿ, "Watch the cat walk" ಎಂದು ಟೈಪ್ ಮಾಡಲಾಗಿದೆ.](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
@@ -46,13 +46,13 @@
 
 --- no-print ---
 
-![Typing "Made by The Raspberry Pi Foundation" in the 'Notes and Credits' box.](images/notes_and_credits.gif)
+!['Notes and Credits' ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ "Made by The Raspberry Pi Foundation"ಟೈಪಿಂಗ್.](images/notes_and_credits.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
+!['Notes and Credits' ಬಾಕ್ಸ್ ನಲ್ಲಿ,"Made by The Raspberry Pi Foundation" ಎಂದು ತೋರಿಸು.](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
@@ -60,16 +60,16 @@
 
 --- no-print ---
 
-![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
+!['Copy Link' ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡುವುದರಿಂದ, 'Copy Link' ಡೈಲಾಗ್ ಬಾಕ್ಸ್ ತೆರೆಯುತ್ತದೆ. ನಂತರ, ಸಂವಾದ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ, 'Link' ಅಡಿಯಲ್ಲಿ URL ಅನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ ಮತ್ತು 'Copy link' ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
+!['Copy link' ಡೈಲಾಗ್ ಬಾಕ್ಸ್‌ನಲ್ಲಿ'Copy Link' ಬಟನ್ ಅನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
 ಸ್ಕ್ರಾಚ್ ನಿಮ್ಮ ಮತ್ತು ಇತರರ ಯೋಜನೆಗಳ ಬಗ್ಗೆ ಕಾಮೆಂಟ್ ಮಾಡುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಒದಗಿಸುತ್ತದೆ. ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ನಲ್ಲಿ ಕಾಮೆಂಟ್ ಮಾಡಲು ಜನರಿಗೆ ಅನುಮತಿಸಲು ನೀವು ಬಯಸದಿದ್ದರೆ, ನೀವು ಕಾಮೆಂಟ್ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸಬೇಕು. ಕಾಮೆಂಟ್ ಆಫ್ ಮಾಡಲು, **Comments** ಬಾಕ್ಸ್ ಮೇಲೆ ಇರುವ **Commenting off** ಕಡೆಗೆ ಸ್ಲೈಡ ಮಾಡಿ.
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+!['Comments' ಬಾಕ್ಸ್ ಮೇಲಿನ ಸ್ಲೈಡರ್ 'Commenting off' ಸ್ಥಾನದಲ್ಲಿದೆ. "Sorry, comment posting has been turned off for this project."ಎಂದು ಹೇಳುವ ಸಂದೇಶವನ್ನು ತೋರಿಸಲಾಗಿದೆ](images/comments-off.png){:width="300px"}
