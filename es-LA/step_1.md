@@ -1,6 +1,6 @@
-Please make sure that you **do not** share any personal information about yourself when sharing your Scratch projects.
+Por favor asegúrate de que **no** compartas cualquier información personal sobre ti cuando compartas tus proyectos en Scratch.
 
-- Give your Scratch project a name.
+- Dale un nombre a tu proyecto Scratch.
 
 --- no-print ---
 
