@@ -14,17 +14,17 @@ Por favor asegúrate de que **no** compartas cualquier información personal sob
 
 --- /print-only ---
 
-- Click the **Share** button to make the project public.
+- Haz clic en el botón **Compartir** para hacer público el proyecto.
 
 --- no-print ---
 
-![Clicking the orange 'Share' button at the top of the screen. Then, a message appears saying "Your project is now shared."](images/share.gif)
+![Haciendo clic en el botón naranja 'Compartir' en la parte superior de la pantalla. Luego, aparece un mensaje que dice "Ahora tu proyecto está compartido."](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
+![El botón naranja 'Compartir' en la parte superior de la pantalla resaltado.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
@@ -32,31 +32,31 @@ Por favor asegúrate de que **no** compartas cualquier información personal sob
 
 --- no-print ---
 
-![Typing "Watch the cat walk" in the 'Instructions' box.](images/add_instructions.gif)
+![Escribe "Mira caminar al gato" en el cuadro "Instrucciones".](images/add_instructions.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
+![El cuadro 'Instrucciones' mostrando las instrucciones "Mira caminar al gato".](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
-- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
+- También puedes completar el cuadro **Notas y Créditos**: si has realizado un proyecto original, puedes escribir algunos comentarios cortos, o si has remezclado un proyecto, puedes acreditar al creador original.
 
 --- no-print ---
 
-![Typing "Made by The Raspberry Pi Foundation" in the 'Notes and Credits' box.](images/notes_and_credits.gif)
+![Escribiendo "Hecho por The Raspberry Pi Foundation" en el cuadro 'Notas y créditos'.](images/notes_and_credits.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
+![El cuadro 'Notas y créditos' que muestra escrito "Hecho por The Raspberry Pi Foundation".](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Copy Link** button to get the link to your project. You can send this link to other people by email or text, or on social media.
+- Click the **Copy Link** button to get the link to your project. Puedes enviar este enlace a otras personas por correo electrónico o mensaje de texto, o en las redes sociales.
 
 --- no-print ---
 
@@ -70,6 +70,6 @@ Por favor asegúrate de que **no** compartas cualquier información personal sob
 
 --- /print-only ---
 
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
+Scratch ofrece la posibilidad de comentar sobre proyectos propios y ajenos. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![The slider above the 'Comments' box is in the 'Commenting off' position. Se muestra un mensaje que dice: "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
