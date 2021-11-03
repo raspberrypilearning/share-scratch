@@ -4,13 +4,13 @@ Por favor asegúrate de que **no** compartas cualquier información personal sob
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
+![Cambiar "Untitled" a "Gato caminando" para nombrar el proyecto, en el cuadro a la izquierda del botón naranja 'Compartir' en la parte superior de la pantalla.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
+![El cuadro del nombre del proyecto con el nuevo nombre 'Gato caminando' resaltado, a la izquierda del botón naranja 'Compartir' en la parte superior de la pantalla.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
@@ -28,7 +28,7 @@ Por favor asegúrate de que **no** compartas cualquier información personal sob
 
 --- /print-only ---
 
-- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
+- Si quieres, puedes agregar instrucciones en el cuadro **Instrucciones**, para decirle a otras personas cómo usar tu proyecto.
 
 --- no-print ---
 
@@ -56,20 +56,20 @@ Por favor asegúrate de que **no** compartas cualquier información personal sob
 
 --- /print-only ---
 
-- Click the **Copy Link** button to get the link to your project. Puedes enviar este enlace a otras personas por correo electrónico o mensaje de texto, o en las redes sociales.
+- Haz clic en el botón **Copiar enlace** para obtener el enlace a tu proyecto. Puedes enviar este enlace a otras personas por correo electrónico o mensaje de texto, o en las redes sociales.
 
 --- no-print ---
 
-![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
+![Al hacer clic en 'Copy link' (Copiar enlace), se abre un cuadro de diálogo 'Copy link'. Luego, en el cuadro de diálogo, resalta la URL en 'Link' (Enlace) y selecciona 'Copy link' (Copiar enlace).](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
+![El botón 'Copy link' (Copiar enlace) resaltado, en el cuadro de diálogo 'Copy link'.](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
-Scratch ofrece la posibilidad de comentar sobre proyectos propios y ajenos. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
+Scratch ofrece la posibilidad de comentar sobre proyectos propios y ajenos. Si no quieres permitir que las personas comenten sobre tu proyecto, debes deshabilitar los comentarios. Para deshabilitar los comentarios, fija el deslizador sobre el cuadro **Comentarios** en la posición **Comentarios deshabilitados**.
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. Se muestra un mensaje que dice: "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![El deslizador sobre el cuadro 'Comentarios' está en la posición 'Comentarios deshabilitados'. Se muestra un mensaje que dice: "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
