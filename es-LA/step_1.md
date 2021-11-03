@@ -42,7 +42,7 @@ Por favor asegúrate de que **no** compartas cualquier información personal sob
 
 --- /print-only ---
 
-- También puedes completar el cuadro **Notas y Créditos**: si has realizado un proyecto original, puedes escribir algunos comentarios cortos, o si has remezclado un proyecto, puedes acreditar al creador original.
+- También puedes completar el cuadro **Notas y créditos**: si has realizado un proyecto original, puedes escribir algunos comentarios cortos, o si has remezclado un proyecto, puedes acreditar al creador original.
 
 --- no-print ---
 
@@ -56,11 +56,11 @@ Por favor asegúrate de que **no** compartas cualquier información personal sob
 
 --- /print-only ---
 
-- Haz clic en el botón **Copiar enlace** para obtener el enlace a tu proyecto. Puedes enviar este enlace a otras personas por correo electrónico o mensaje de texto, o en las redes sociales.
+- Haz clic en el botón **Copy Link (Copiar enlace)** para obtener el enlace a tu proyecto. Puedes enviar este enlace a otras personas por correo electrónico o mensaje de texto, o en las redes sociales.
 
 --- no-print ---
 
-![Al hacer clic en 'Copy link' (Copiar enlace), se abre un cuadro de diálogo 'Copy link'. Luego, en el cuadro de diálogo, resalta la URL en 'Link' (Enlace) y selecciona 'Copy link' (Copiar enlace).](images/copy_link.gif)
+![Al hacer clic en 'Copy Link' (Copiar enlace), se abre un cuadro de diálogo 'Copy link'. Luego, en el cuadro de diálogo, resalta la URL en 'Link' (Enlace) y selecciona 'Copy Link' (Copiar enlace).](images/copy_link.gif)
 
 --- /no-print ---
 
@@ -70,7 +70,7 @@ Por favor asegúrate de que **no** compartas cualquier información personal sob
 
 --- /print-only ---
 
-Scratch ofrece la posibilidad de comentar sobre proyectos propios y ajenos. Si no quieres permitir que las personas comenten sobre tu proyecto, debes deshabilitar los comentarios. Para deshabilitar los comentarios, fija el deslizador sobre el cuadro **Comentarios** en la posición **Comentarios deshabilitados**.
+Scratch ofrece la posibilidad de comentar sobre proyectos propios y ajenos. Si no quieres permitir que las personas comenten sobre tu proyecto, debes deshabilitar los comentarios. Para deshabilitar los comentarios, fija el deslizador sobre el cuadro **Comentarios** en la posición **Commenting off (Comentarios deshabilitados)**.
 
-![El deslizador sobre el cuadro 'Comentarios' está en la posición 'Comentarios deshabilitados'. Se muestra un mensaje que dice: "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![El deslizador sobre el cuadro 'Comentarios' está en la posición 'Commenting on' (Comentarios deshabilitados). Se muestra un mensaje que dice: "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
 
