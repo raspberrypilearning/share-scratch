@@ -1,75 +1,75 @@
-Please make sure that you **do not** share any personal information about yourself when sharing your Scratch projects.
+Gwna'n siŵr **nad wyt** ti'n rhannu unrhyw wybodaeth bersonol amdanat ti dy hun wrth rannu dy brosiectau Scratch.
 
-- Give your Scratch project a name.
+- Rho enw i dy brosiect Scratch.
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
+![Newid "Heb Deitl" i "Cath yn Cerdded" i enwi'r prosiect, yn y blwch i'r chwith o'r botwm 'Rhannu' oren ar frig y sgrin.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
+![Blwch enw'r prosiect gyda'r enw newydd 'Cath yn cerdded' wedi'i amlygu, i'r chwith o'r botwm 'Rhannu' oren ar frig y sgrin.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Share** button to make the project public.
+- Clicia'r botwm **Rhannu** i wneud y prosiect yn gyhoeddus.
 
 --- no-print ---
 
-![Clicking the orange 'Share' button at the top of the screen. Then, a message appears saying "Your project is now shared."](images/share.gif)
+![Clicio'r botwm 'Rhannu' oren ar frig y sgrin. Yna, mae neges yn ymddangos yn dweud "Mae eich prosiect wedi'i rannu nawr."](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
+![Y botwm 'Rhannu' oren ar frig y sgrin wedi'i amlygu.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
+- Os wyt ti eisiau, galli di ychwanegu cyfarwyddiadau yn y blwch **Cyfarwyddiadau**, i ddweud wrth bobl eraill sut i ddefnyddio dy brosiect.
 
 --- no-print ---
 
-![Typing "Watch the cat walk" in the 'Instructions' box.](images/add_instructions.gif)
+![Teipio "Gwylio'r gath yn cerdded" yn y blwch 'Cyfarwyddiadau'.](images/add_instructions.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
+![Y blwch 'Cyfarwyddiadau', sy'n dangos "Gwylio'r gath yn cerdded" wedi'i deipio i mewn.](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
-- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
+- Galli di hefyd lenwi'r blwch **Nodiadau a Chydnabod**: os wyt ti wedi creu prosiect gwreiddiol, galli di ysgrifennu rhai sylwadau byr, neu os wyt ti wedi ailgymysgu prosiect, galli di gydnabod y dylunydd gwreiddiol.
 
 --- no-print ---
 
-![Typing "Made by The Raspberry Pi Foundation" in the 'Notes and Credits' box.](images/notes_and_credits.gif)
+![Teipio "Wedi'i wneud gan The Raspberry Pi Foundation" yn y blwch 'Nodiadau a Chlod'.](images/notes_and_credits.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
+![Y blwch 'Nodiadau a Chlod', yn dangos "Ar gael drwy The Rasberry Pi Foundation" wedi'i deipio i mewn.](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Copy Link** button to get the link to your project. You can send this link to other people by email or text, or on social media.
+- Clicia'r botwm **Copïo Dolen** i gael y ddolen i dy brosiect. Galli di anfon y ddolen hon at bobl eraill drwy e-bost neu neges destun, neu ar gyfryngau cymdeithasol.
 
 --- no-print ---
 
-![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
+![Clicio ar 'Copïo Dolen', sy'n agor blwch deialog 'Copïo Dolen'. Yna, yn y blwch deialog, amlygu'r URL o dan 'Dolen', a dewis 'Copïo Dolen'.](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
+![Y botwm 'Copïo Dolen' wedi'i amlygu yn y blwch deialog 'Copïo Dolen'.](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
+Mae Scratch yn darparu'r gallu i roi sylwadau ar dy brosiectau di a phrosiectau pobl eraill. Os nad wyt ti am ganiatáu i bobl roi sylwadau ar dy brosiect, dylet ti ddiffodd gwneud sylwadau. I ddiffodd sylwadau, gosoda'r llithrydd uwchben y blwch **Sylwadau** i **Sylwadau wedi diffodd**.
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![Mae'r llithrydd uwchben y blwch 'Sylwadau' yn y safle 'Sylwadau wedi diffodd'. Dangosir neges yn dweud "Mae'n ddrwg gennym, mae postio sylwadau wedi'i ddiffodd ar gyfer y prosiect hwn."](images/comments-off.png){:width="300px"}
