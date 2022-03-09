@@ -6,7 +6,7 @@
 
 ![स्क्रीन के शीर्ष पर नारंगी 'Share' बटन के बाईं ओर स्थित बॉक्स में, प्रोजेक्ट का नाम रखने के लिए "Untitled" to "Walking Cat" को बदलना।](images/name_file.gif)
 
---- no-print ---
+--- /no-print ---
 
 --- print-only ---
 
