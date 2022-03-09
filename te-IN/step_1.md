@@ -1,75 +1,75 @@
-Please make sure that you **do not** share any personal information about yourself when sharing your Scratch projects.
+దయచేసి మీరు మీ ప్రాజెక్ట్‌లను షేర్ చేస్తున్నప్పుడు మీ గురించి ఎలాంటి వ్యక్తిగత సమాచారాన్ని షేర్ ** చేయలేదని ** నిర్ధారించుకోండి.
 
-- Give your Scratch project a name.
+- మీ Scratch ప్రాజెక్ట్‌కు పేరు పెట్టండి.
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
+![ప్రాజెక్ట్ కి పేరు పెట్టడానికి, Changing "Untitled" to "Walking Cat" స్క్రీన్ పై భాగంలో, నారింజ రంగు 'Share' బటన్ కు ఎడమ వైపు గల బాక్సు.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
+![స్క్రీన్ పైభాగంలో ఉన్న నారింజ రంగు 'Share' బటన్‌కు ఎడమవైపున 'Walking Cat' అనే కొత్త పేరుతో ప్రాజెక్ట్ నేమ్ బాక్సు హైలైట్ చేయబడింది.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Share** button to make the project public.
+- ప్రాజెక్ట్‌ను పబ్లిక్ చేయడానికి **Share** బటన్‌ను క్లిక్ చేయండి.
 
 --- no-print ---
 
-![Clicking the orange 'Share' button at the top of the screen. Then, a message appears saying "Your project is now shared."](images/share.gif)
+![స్క్రీన్ పైభాగంలో ఉన్న నారింజ రంగు 'Share' బటన్‌ను క్లిక్ చేయడం. అప్పుడు, " Your project is now shared " అని సందేశం కనిపిస్తుంది](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
+![స్క్రీన్ పైభాగంలో ఉన్న నారింజ రంగు 'Share' బటన్ హైలైట్ చేయబడింది.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
+- మీరు కావాలనుకుంటే, మీ ప్రాజెక్ట్‌ను ఎలా ఉపయోగించాలో ఇతర వ్యక్తులకు తెలియజేయడానికి మీరు **Instructions** బాక్సు లో సూచనలను జోడించవచ్చు.
 
 --- no-print ---
 
-![Typing "Watch the cat walk" in the 'Instructions' box.](images/add_instructions.gif)
+!['Instructions' బాక్సులో "Watch the cat walk" ని టైప్ చేయడం.](images/add_instructions.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
+!['Instructions' బాక్సు, టైపు చేయబడిన "Watch the cat walk" చూపుతుంది.](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
-- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
+- మీరు **Notes and Credits** బాక్సు లో కూడా పూరించవచ్చు: మీరు అసలైన ప్రాజెక్ట్‌ను రూపొందించినట్లయితే, మీరు కొన్ని చిన్న వ్యాఖ్యలను వ్రాయవచ్చు లేదా మీరు ప్రాజెక్ట్‌ను రీమిక్స్ చేసి ఉంటే, మీరు అసలు సృష్టికర్తకు క్రెడిట్ చేయవచ్చు.
 
 --- no-print ---
 
-![Typing "Made by The Raspberry Pi Foundation" in the 'Notes and Credits' box.](images/notes_and_credits.gif)
+!["Made by The Raspberry Pi Foundation" ను 'Notes and Credits' బాక్సులో టైప్ చేయడం.](images/notes_and_credits.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
+!['Notes and Credits' బాక్సు, టైప్ చేయబడిన "Made by The Raspberry Pi Foundation" ను చూపుతుంది.](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Copy Link** button to get the link to your project. You can send this link to other people by email or text, or on social media.
+- మీ ప్రాజెక్ట్‌కి లింక్‌ని పొందడానికి **Copy Link** బటన్‌ను క్లిక్ చేయండి. మీరు ఈ లింక్‌ని ఇమెయిల్ లేదా టెక్స్ట్ ద్వారా లేదా సోషల్ మీడియాలో ఇతర వ్యక్తులకు పంపవచ్చు.
 
 --- no-print ---
 
-![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
+!['Copy Link'పై క్లిక్ చేయడం ద్వారా, 'Copy Link' డైలాగ్ బాక్స్ తెరవబడుతుంది. ఆపై, డైలాగ్ బాక్స్‌లో, 'Link' కింద URLను హైలైట్ చేసి, 'Copy link'ని ఎంచుకోండి.](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
+!['Copy Link' డైలాగ్ బాక్స్‌లో 'Copy link' బటన్ హైలైట్ చేయబడింది.](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
+Scratch మీ స్వంత మరియు ఇతర వ్యక్తుల ప్రాజెక్ట్‌లపై వ్యాఖ్యానించే సామర్థ్యాన్ని అందిస్తుంది. మీ ప్రాజెక్ట్‌పై వ్యాఖ్యానించడానికి వ్యక్తులను అనుమతించకూడదనుకుంటే, మీరు వ్యాఖ్యానించడాన్ని ఆఫ్ చేయాలి. వ్యాఖ్యానించడాన్ని ఆఫ్ చేయడానికి, **Comments** బాక్సు పైన ఉన్న స్లయిడర్‌ను **Commenting off**కి సెట్ చేయండి.
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+!['Comments' బాక్సు పైన ఉన్న స్లయిడర్ 'Commenting off' స్థానంలో ఉంది. "Sorry, comment posting has been turned off for this project." అనే సందేశం చూపబడింది](images/comments-off.png){:width="300px"}
