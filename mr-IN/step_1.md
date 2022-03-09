@@ -1,75 +1,75 @@
-Please make sure that you **do not** share any personal information about yourself when sharing your Scratch projects.
+तुम्ही तुमचा Scratch प्रोजेक्ट शेअर करतांना स्वतःबद्दल कोणतिही खाजगी माहिती शेअर करणार **नाही** याची खात्री बाळगा.
 
-- Give your Scratch project a name.
+- तुमच्या Scratch प्रोजेक्टला नाव द्या.
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
+![स्क्रीनच्या वरील 'Share' या नारिंगी बटनाच्या डावीकडील बॉक्स मध्ये प्रोजेक्टचे नाव "Untitled" ते "Walking Cat" बदलत आहे.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
+![स्क्रीनच्या वरील 'Share' या नारिंगी बटनाच्या डावीकडे 'Walking Cat' नवीन नाव असलेला प्रोजेक्ट बॉक्स.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Share** button to make the project public.
+- प्रोजेक्ट सार्वजनिक करण्यासाठी **Share** बटनवर क्लिक करा.
 
---- no-print ---
+--- / no-print ---
 
-![Clicking the orange 'Share' button at the top of the screen. Then, a message appears saying "Your project is now shared."](images/share.gif)
+![स्क्रीनच्या वरच्या भागातील 'Share' या नारिंगी बटनवर क्लिक करणे. त्यानंतर "Your project is now shared." सांगणारा मेसेज दिसतो](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
+![स्क्रीनच्या वरील भागात हायलाइट केलेले 'Share' हे नारिंगी बटन.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
+- तुम्हाला आवडल्यास, तुमचा प्रोजेक्ट कसा वापरायचा याबद्दल इतर लोकांना सांगण्यासाठी तुम्ही **Instructions** बॉक्स मध्ये सूचना जोडू शकता.
 
 --- no-print ---
 
-![Typing "Watch the cat walk" in the 'Instructions' box.](images/add_instructions.gif)
+!['Instructions' बॉक्स मध्ये "Watch the cat walk" टाईप करणे.](images/add_instructions.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
+!["Watch the cat walk" टाईप केलेले दाखवणरा 'Instructions' बॉक्स.](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
-- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
+- तुम्ही **Notes and Credits** बॉक्समध्ये सुद्धा भरू शकता: तुम्ही मूळ प्रोजेक्ट तयार केला असलात, तर तुम्ही काही लहान कमेंट लिहू शकता, किंवा तुम्ही प्रोजेक्ट रीमिक्स केला तर तुम्ही मूळ क्रिएटर क्रेडिट करू शकता.
 
 --- no-print ---
 
-![Typing "Made by The Raspberry Pi Foundation" in the 'Notes and Credits' box.](images/notes_and_credits.gif)
+!['Notes and Credits' बॉक्स मध्ये "Made by The Raspberry Pi Foundation" टाईप करणे.](images/notes_and_credits.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
+!['Notes and Credits' बॉक्स मध्ये "Made by The Raspberry Pi Foundation " टाईप करणे.](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Copy Link** button to get the link to your project. You can send this link to other people by email or text, or on social media.
+- तुमच्या प्रोजेक्टची लिंक मिळवण्यासाठी **Copy Link** बटनवर क्लिक करा. तुम्ही ही लिंक इतरांना इमेल किंवा टेक्स्ट द्वारे, किंवा सोशल मीडियावर पाठवू शकता.
 
 --- no-print ---
 
-![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
+!['Copy Link' वर क्लिक करणे, जो 'Copy Link' डायलॉग बॉक्स मध्ये उघडतो. त्यानंतर, डायलॉग बॉक्समध्ये, 'Link' अंतर्गत URL हायलाईट करणे आणि 'Copy link' निवडणे.](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
+!['Copy Link' डायलॉग बॉक्समध्ये हायलाइट केलेले 'Copy link' बटन.](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
+Scratch तुमच्या स्वतःच्या आणि इतरांच्या प्रोजेक्टवर कमेंट करण्याची क्षमता देतो. लोकांनी तुमच्या प्रोजेक्टवर कमेंट द्यावी असे तुम्हाला वाटत नसल्यास, तुम्ही कमेंटींग बंद करायला हवे. कमेंट करणे बंद करण्यासाठी, स्लाइडर **Comments** बॉक्स च्या वर **Commenting off** सेट करा.
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+!['Comments' बॉक्स वरील स्लायडर 'Commenting off' स्थितीत आहे. "Sorry, comment posting has been turned off for this project." हे सांगणारा मेसेज](images/comments-off.png){:width="300px"}
