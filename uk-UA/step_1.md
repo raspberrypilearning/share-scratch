@@ -1,75 +1,75 @@
-Please make sure that you **do not** share any personal information about yourself when sharing your Scratch projects.
+Будь ласка, переконайся, що ти **не** розголошуєш будь-яку особисту інформацію про себе, коли ділишся своїми проєктами Scratch.
 
-- Give your Scratch project a name.
+- Дай назву своєму проєкту в Scratch.
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
+![Зміна назви проєкту "Untitled" на "Кіт, який ходить" в полі зліва біля оранжевої кнопки 'Поділитись', яка знаходиться у верхній частині екрана.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
+![Виділене поле назви проєкту з новою назвою 'Кіт, який ходить', яка знаходиться ліворуч від помаранчевої кнопки 'Поділитись' у верхній частині екрана.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Share** button to make the project public.
+- Натисни на кнопку **Поділитись**, щоб зробити проєкт публічним.
 
 --- no-print ---
 
-![Clicking the orange 'Share' button at the top of the screen. Then, a message appears saying "Your project is now shared."](images/share.gif)
+![Натисни оранжеву кнопку 'Поділитись' у верхній частині екрана. Після цього з'явиться повідомлення "Your project is now shared."](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
+![Оранжева кнопка 'Поділитись' у верхній частині екрана виділена.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
+- Якщо хочеш, ти можеш додати інструкції в поле **Вказівки**, щоб пояснити іншим людям, як користуватися твоїм проєктом.
 
 --- no-print ---
 
-![Typing "Watch the cat walk" in the 'Instructions' box.](images/add_instructions.gif)
+![Набери "Спостерігай за прогулянкою кота" в полі 'Вказівки'.](images/add_instructions.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
+![Поле 'Вказівки', з набраним текстом "Спостерігай за прогулянкою кота".](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
-- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
+- Ти також можеш заповнити поле **Замітки та подяки**: якщо твій проєкт є оригінальним, ти можеш написати короткі коментарі, або якщо твій проєкт був перероблений, ти можеш вказати автора оригінального проєкту.
 
 --- no-print ---
 
-![Typing "Made by The Raspberry Pi Foundation" in the 'Notes and Credits' box.](images/notes_and_credits.gif)
+![Набери "Автор проєкту The Raspberry Pi Foundation" в полі 'Замітки та подяки'.](images/notes_and_credits.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
+![Поле 'Замітки та подяки', з набраним текстом "Автор проєкту The Raspberry Pi Foundation".](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Copy Link** button to get the link to your project. You can send this link to other people by email or text, or on social media.
+- Клацни на кнопку **Copy Link**, щоб отримати посилання на твій проєкт. Ти можеш відправити це посилання іншим людям електронною поштою або через повідомлення, або в соціальних мережах.
 
 --- no-print ---
 
-![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
+![Клацни на кнопку 'Copy Link', яка відкриє діалогове вікно 'Copy Link'. Далі, в діалоговому вікні, виділи посилання, яке знаходиться в полі 'Link', та вибери опцію 'Copy link'.](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
+![Кнопка 'Copy link', яка знаходиться в діалоговому вікні 'Copy Link' виділена.](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
+Scratch надає можливість коментувати свої та чужі проєкти. Якщо ти не хочеш, щоб люди коментували твій проєкт, тобі слід вимкнути коментарі. Щоб вимкнути коментування, встанови повзунок, який розташований над полем **Коментарі** в положення **Commenting off**.
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![Повзунок над полем «Коментарі» встановлено в положення «Вимкнути коментарі». На екрані з'явиться повідомлення "Вибачте, для цього проєкту вимкнено можливість залишати коментарі."](images/comments-off.png){:width="300px"}
