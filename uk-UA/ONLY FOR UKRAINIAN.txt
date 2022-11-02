@@ -1,5 +1,5 @@
-Watch the cat walk
+Спостерігай за прогулянкою кота
 
-Made by the Raspberry Pi Foundation
+Автор проєкту - Raspberry Pi Foundation
 
-Walking cat
+Кіт, який ходить
