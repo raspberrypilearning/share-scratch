@@ -1,75 +1,75 @@
-Please make sure that you **do not** share any personal information about yourself when sharing your Scratch projects.
+Provjeri da **ne** dijeliš nikakve osobne podatke o sebi kada dijeliš svoje Scratch projekte.
 
-- Give your Scratch project a name.
+- Daj naziv svom Scratch projektu.
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
+![Promjena teksta "Untitled" u "Mačka koja hoda" kako bi imenovao/la projekt, u okviru lijevo od narančastog gumba „Dijeli” na vrhu zaslona.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
+![Okvir za naziv projekta s istaknutim novim imenom „Mačka koja hoda”, lijevo od narančastog gumba „Dijeli” na vrhu zaslona.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Share** button to make the project public.
+- Pritisni gumb **Dijeli** da bi projekt učinio/la javnim.
 
 --- no-print ---
 
-![Clicking the orange 'Share' button at the top of the screen. Then, a message appears saying "Your project is now shared."](images/share.gif)
+![Klik na narančasti gumb „Dijeli” na vrhu zaslona. Zatim će se pojaviti poruka "Vaš projekt je sada dijeljen."](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
+![Istaknut narančasti gumb „Dijeli” na vrhu zaslona.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
+- Ako želiš, možeš dodati upute u okvir **Upute** da drugima objasniš kako koristiti tvoj projekt.
 
 --- no-print ---
 
-![Typing "Watch the cat walk" in the 'Instructions' box.](images/add_instructions.gif)
+![Upisivanje "Gledajte mačku kako hoda" u okvir „Upute”.](images/add_instructions.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
+![Okvir „Upute” u kojem je prikazan upisani tekst "Gledajte mačku kako hoda".](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
-- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
+- Također možeš ispuniti polje **Notes and Credits (Napomene i zasluge)**. Ako si napravio/la izvorni projekt, možeš napisati nekoliko kratkih komentara ili ako si remiksirao/la projekt, možeš dati zasluge izvornom kreatoru/ici.
 
 --- no-print ---
 
-![Typing "Made by The Raspberry Pi Foundation" in the 'Notes and Credits' box.](images/notes_and_credits.gif)
+![Upisivanje "Izradila udruga Raspberry Pi Foundation" u okvir „Notes and Credits (Napomene i zasluge)”.](images/notes_and_credits.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
+![Okvir „Notes and Credits (Napomene i zasluge)” u kojem je prikazan upisani tekst "Izradila udruga Raspberry Pi Foundation".](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Copy Link** button to get the link to your project. You can send this link to other people by email or text, or on social media.
+- Klikni na gumb **Copy Link (Kopiraj poveznicu)** da dobiješ poveznicu za svoj projekt. Ovu poveznicu možeš poslati drugim ljudima e-poštom, porukom ili putem društvenih mreža.
 
 --- no-print ---
 
-![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
+![Klik na „Copy Link (Kopiraj poveznicu)”, čime se otvara dijaloški okvir „Copy Link (Kopiraj poveznicu)”. Zatim u dijaloškom okviru označi URL koji se nalazi ispod teksta „Link (Poveznica)” i odaberi „Copy Link (Kopiraj poveznicu)”.](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
+![Istaknut gumb „Copy Link (Kopiraj poveznicu)” u dijaloškom okviru „Copy Link (Kopiraj poveznicu)”.](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
+Scratch pruža mogućnost komentiranja vlastitih i tuđih projekata. Ako ne želiš dopustiti ljudima da komentiraju tvoj projekt, moraš isključiti opciju komentiranja. Da isključiš opciju komentiranja, postavi klizač iznad okvira **Komentari** na **Commenting off (Komentiranje isključeno)**.
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![Klizač iznad okvira „Komentari” postavljen je na opciju „Commenting off (Komentiranje isključeno)”. Prikazuje se poruka "Commenting for this project has been turned off (Objavljivanje komentara je isključeno za ovaj projekt)."](images/comments-off.png){:width="300px"}
