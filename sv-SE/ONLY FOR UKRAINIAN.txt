@@ -1,5 +1,5 @@
-Watch the cat walk
+Se katten gå
 
-Made by the Raspberry Pi Foundation
+Gjord av Raspberry Pi stiftelsen
 
-Walking cat
+Gående katt
