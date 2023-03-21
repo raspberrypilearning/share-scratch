@@ -38,7 +38,7 @@ Por favor asegúrate de que **no** compartas cualquier información personal sob
 
 --- print-only ---
 
-![El cuadro 'Instrucciones' mostrando las instrucciones "Mira caminar al gato".](images/add_instructions.png){:width="300px"}
+![El cuadro de 'Instrucciones' mostrando las instrucciones "Mira caminar al gato".](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
@@ -60,16 +60,16 @@ Por favor asegúrate de que **no** compartas cualquier información personal sob
 
 --- no-print ---
 
-![Al hacer clic en 'Copy link' (Copiar enlace), se abre un cuadro de diálogo 'Copy link'. Luego, en el cuadro de diálogo, resalta la URL en 'Link' (Enlace) y selecciona 'Copy link' (Copiar enlace).](images/copy_link.gif)
+![Al hacer clic en 'Copiar enlace', se abre un cuadro de diálogo 'Copiar enlace'. Luego, en el cuadro de diálogo, resalta la URL en 'Enlace' y selecciona 'Copiar enlace'.](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![El botón 'Copy link' (Copiar enlace) resaltado, en el cuadro de diálogo 'Copy link'.](images/copy_link.png){:width="300px"}
+![El botón 'Copiar enlace' resaltado, en el cuadro de diálogo 'Copiar enlace'.](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
-Scratch ofrece la posibilidad de comentar sobre proyectos propios y ajenos. Si no quieres permitir que las personas comenten sobre tu proyecto, debes deshabilitar los comentarios. Para deshabilitar los comentarios, fija el deslizador sobre el cuadro **Comentarios** en la posición **Comentarios deshabilitados**.
+Scratch ofrece la posibilidad de comentar sobre proyectos propios y ajenos. Si no quieres permitir que las personas comenten sobre tu proyecto, debes deshabilitar los comentarios. Para hacer esto, fija el deslizador sobre el cuadro **Comentarios** en la posición **Comentarios deshabilitados**.
 
 ![El deslizador sobre el cuadro 'Comentarios' está en la posición 'Comentarios deshabilitados'. Se muestra un mensaje que dice: "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
