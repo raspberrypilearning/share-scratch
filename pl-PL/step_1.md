@@ -32,7 +32,7 @@ Proszę, upewnij się, że **nie** udostępniasz żadnych swoich danych osobowyc
 
 --- no-print ---
 
-![Wpisywanie "Obserwuj spacer kota" w polu „Instrukcje”.](images/add_instructions.gif)
+![Wpisywanie „Obserwuj spacer kota” w polu „Instrukcje”.](images/add_instructions.gif)
 
 --- /no-print ---
 
