@@ -42,7 +42,7 @@ Bitte stelle sicher, dass du **keine** persönlichen Informationen über dich se
 
 --- /print-only ---
 
-- Du kannst auch das Feld „ **Anmerkungen und Credits** “ ausfüllen: Wenn du ein Originalprojekt erstellt hast, kannst du einige kurze Kommentare schreiben, oder wenn du ein Projekt geremixt hast, kannst du den ursprünglichen Ersteller angeben.
+- Du kannst auch das Feld „**Anmerkungen und Credits**“ ausfüllen: Wenn du ein Originalprojekt erstellt hast, kannst du einige kurze Kommentare schreiben, oder wenn du ein Projekt geremixt hast, kannst du den ursprünglichen Ersteller angeben.
 
 --- no-print ---
 
@@ -52,7 +52,7 @@ Bitte stelle sicher, dass du **keine** persönlichen Informationen über dich se
 
 --- print-only ---
 
-![Das Feld „Anmerkungen und Credits“ zeigt die Eingabe „Hergestellt von der Raspberry Pi Foundation“ an.](images/notes_and_credits.png){:width="300px"}
+![Das Feld „Anmerkungen und Credits“ zeigt die Eingabe „ "Hergestellt von der Raspberry Pi Foundation" “ an.](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
