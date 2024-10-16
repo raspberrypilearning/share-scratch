@@ -1,75 +1,75 @@
-Please make sure that you **do not** share any personal information about yourself when sharing your Scratch projects.
+Si us plau, assegurat que **no** comparteixes cap informació personal de tu mateix quan estàs compartint els teus projectes Scratch.
 
-- Give your Scratch project a name.
+- Dona-li un nom al teu projecte Scratch.
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
+![Canvia "Sense títol" a "Gat caminant" per anomenar el projecte, al quadre a l'esquerra del botó taronja "Comparteix" a la part superior de la pantalla.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
+![El quadre del nom del projecte amb el nou nom destacat "Gat caminant", a l'esquerra del botó taronja "Comparteix" a la part superior de la pantalla.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Share** button to make the project public.
+- Feu clic al botó **Comparteix** per fer públic el projecte.
 
 --- no-print ---
 
-![Clicking the orange 'Share' button at the top of the screen. Then, a message appears saying "Your project is now shared."](images/share.gif)
+![Feu clic al botó taronja "Comparteix" a la part superior de la pantalla. Aleshores, apareix un missatge que diu "El vostre projecte s'ha compartit."](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
+![S'ha ressaltat el botó taronja "Comparteix" a la part superior de la pantalla.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
+- Si vols, pots afegir instruccions al quadre **Instruccions** per dir a altres persones com utilitzar el teu projecte.
 
 --- no-print ---
 
-![Typing "Watch the cat walk" in the 'Instructions' box.](images/add_instructions.gif)
+![Escriu "Mira com el gat camina" al quadre "Instruccions".](images/add_instructions.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
+![El quadre "Instruccions", que mostra "Mira com el gat camina" escrit.](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
-- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
+- També pots omplir el quadre **Notes i crèdits**: si heu fet un projecte original, pots escriure alguns comentaris breus, o si heu reinventat un projecte, podeu acreditar el creador original.
 
 --- no-print ---
 
-![Typing "Made by The Raspberry Pi Foundation" in the 'Notes and Credits' box.](images/notes_and_credits.gif)
+![Escrivint "Fet per la Fundació Raspberry Pi " a la casella "Notes i crèdits".](images/notes_and_credits.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
+![El quadre "Notes i crèdits", que mostra "Fet per la Fundació Raspberry Pi" escrit.](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Copy Link** button to get the link to your project. You can send this link to other people by email or text, or on social media.
+- Fes clic al botó **Copia l'enllaç** per obtenir l'enllaç al teu projecte. Pots enviar aquest enllaç a altres persones per correu electrònic o missatge de text, o a les xarxes socials.
 
 --- no-print ---
 
-![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
+![Si fas clic a "Copia l'enllaç", el qual obre un quadre de diàleg "Copia l'enllaç". Llavors, al quadre de diàleg, ressalteu l'URL a "Enllaç" i seleccioneu "Copia l'enllaç".](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
+![El botó "Copia l'enllaç" destacat al quadre de diàleg "Copia l'enllaç".](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
+Scratch ofereix la possibilitat de comentar projectes propis i d'altres persones. Si no voleu permetre que la gent faci comentaris sobre el vostre projecte, hauríeu de desactivar els comentaris. Per desactivar els comentaris, posa el control lliscant a sobre del quadre **Comentaris** a **Comentaris desactivats**.
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![El control lliscant que hi ha a sobre del quadre "Comentaris" es troba a la posició "Comentaris desactivats". Es mostra un missatge que diu "Ho sentim, la publicació de comentaris s'ha desactivat per a aquest projecte."](images/comments-off.png){:width="300px"}
