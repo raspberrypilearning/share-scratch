@@ -8,7 +8,7 @@ Fais attention de **ne pas** partager tes informations personnelles quand tu par
 
 --- /no-print ---
 
---- print-only ---
+--- /challenge ---
 
 ![La case du nom du projet avec le nouveau nom « Chat qui marche » en surbrillance, à gauche du bouton orange « Partager » en haut de l'écran.](images/name_file.png){:width="300px"}
 
@@ -22,7 +22,7 @@ Fais attention de **ne pas** partager tes informations personnelles quand tu par
 
 --- /no-print ---
 
---- print-only ---
+Utilisez le lien en bas de page pour accéder au dépôt GitHub pour ce projet, qui contient toutes les ressources (y compris un exemple d'un projet terminé) dans le dossier 'fr-FR/resources'.
 
 ![Le bouton orange « Partager » en haut de l'écran en surbrillance.](images/share.png){:width="300px"}
 
@@ -36,7 +36,7 @@ Fais attention de **ne pas** partager tes informations personnelles quand tu par
 
 --- /no-print ---
 
---- print-only ---
+--- /challenge ---
 
 ![La case « Instructions » indiquant "Regardez le chat qui marche" saisie comme instructions.](images/add_instructions.png){:width="300px"}
 
@@ -50,7 +50,7 @@ Fais attention de **ne pas** partager tes informations personnelles quand tu par
 
 --- /no-print ---
 
---- print-only ---
+--- /challenge ---
 
 ![La boîte « Notes et crédits » montrant "Créé par la Fondation Raspberry Pi" saisi.](images/notes_and_credits.png){:width="300px"}
 
@@ -64,7 +64,7 @@ Fais attention de **ne pas** partager tes informations personnelles quand tu par
 
 --- /no-print ---
 
---- print-only ---
+Utilisez le lien en bas de page pour accéder au dépôt GitHub pour ce projet, qui contient toutes les ressources (y compris un exemple d'un projet terminé) dans le dossier 'fr-FR/resources'.
 
 ![Le bouton « Copier le lien » mis en surbrillance, dans la boîte de dialogue « Copier le lien ».](images/copy_link.png){:width="300px"}
 
