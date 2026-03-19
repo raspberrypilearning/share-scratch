@@ -36,7 +36,7 @@ Por favor, verifique se **não** compartilhou nenhuma informação pessoal quand
 
 --- /no-print ---
 
---- print-only ---
+--- /challenge ---
 
 ![A caixa de "Instruções" mostrando "Assista o gato caminhando" digitado como instruções.](images/add_instructions.png){:width="300px"}
 
@@ -50,7 +50,7 @@ Por favor, verifique se **não** compartilhou nenhuma informação pessoal quand
 
 --- /no-print ---
 
---- print-only ---
+--- /challenge ---
 
 ![A caixa de "Notas e Créditos" mostrando "Criado pela Fundação Raspberry Pi".](images/notes_and_credits.png){:width="300px"}
 
