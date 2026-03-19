@@ -8,7 +8,7 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- /no-print ---
 
---- print-only ---
+--- /challenge ---
 
 ![De nieuwe naam 'Wandelende kat' is gemarkeerd, links van de oranje 'Share'-knop.](images/name_file.png){:width="300px"}
 
@@ -22,7 +22,7 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- /no-print ---
 
---- print-only ---
+--- /challenge ---
 
 ![De oranje 'Delen'-knop is gemarkeerd.](images/share.png){:width="300px"}
 
@@ -64,7 +64,7 @@ Zorg ervoor dat je **geen** persoonlijke informatie over jezelf deelt als je jou
 
 --- /no-print ---
 
---- print-only ---
+--- /challenge ---
 
 ![De tekst 'Link kopiëren' is gemarkeerd.](images/copy_link.png){:width="300px"}
 
