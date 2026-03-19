@@ -1,75 +1,75 @@
-Please make sure that you **do not** share any personal information about yourself when sharing your Scratch projects.
+Пожалуйста, убедись, что ты **не** делишься никакой личной информацией о себе, когда делишься своими проектами Scratch.
 
-- Give your Scratch project a name.
+- Дай имя своему проекту Scratch.
 
 --- no-print ---
 
-![Changing "Untitled" to "Walking Cat" to name the project, in the box to the left of the orange 'Share' button at the top of the screen.](images/name_file.gif)
+![Изменение "Untitled" на "Шагающий Кот" чтобы назвать проект, в поле слева от оранжевой кнопки «Поделиться» в верхней части экрана.](images/name_file.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The project name box with the new name 'Walking Cat' highlighted, to the left of the orange 'Share' button at the top of the screen.](images/name_file.png){:width="300px"}
+![Поле имени проекта с выделенным новым названием «Шагающий Кот» слева от оранжевой кнопки «Поделиться» в верхней части экрана.](images/name_file.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Share** button to make the project public.
+- Нажми на кнопку **Поделиться**, чтобы сделать твой проект публичным.
 
 --- no-print ---
 
-![Clicking the orange 'Share' button at the top of the screen. Then, a message appears saying "Your project is now shared."](images/share.gif)
+![Нажатие на оранжевую кнопку «Поделиться» в верхней части экрана. Затем появляется сообщение о том, что "Твой проект открыт для общего доступа."](images/share.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The orange 'Share' button at the top of the screen highlighted.](images/share.png){:width="300px"}
+![Оранжевая кнопка «Поделиться» в верхней части экрана выделена.](images/share.png){:width="300px"}
 
 --- /print-only ---
 
-- If you like, you can add instructions in the **Instructions** box, to tell other people how to use your project.
+- Если хочешь, ты можешь добавить инструкции в поле **Инструкции**, чтобы рассказать другим людям, как использовать твой проект.
 
 --- no-print ---
 
-![Typing "Watch the cat walk" in the 'Instructions' box.](images/add_instructions.gif)
+![Набор на клавиатуре "Смотри за походкой кота" в поле «Инструкции».](images/add_instructions.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Instructions' box, showing "Watch the cat walk" typed in.](images/add_instructions.png){:width="300px"}
+![Поле «Инструкции», в котором отображается "Смотри за походкой кота".](images/add_instructions.png){:width="300px"}
 
 --- /print-only ---
 
-- You can also fill in the **Notes and Credits** box: if you have made an original project, you can write some short comments, or if you have remixed a project, you can credit the original creator.
+- Вы также можешь заполнить поле **Примечания и благодарности**: если ты сделал оригинальный проект, ты можешь написать несколько коротких комментариев или, если ты сделал ремикс проекта, ты можешь указать исходного автора.
 
 --- no-print ---
 
-![Typing "Made by The Raspberry Pi Foundation" in the 'Notes and Credits' box.](images/notes_and_credits.gif)
+![Набор "Сделано The Raspberry Pi Foundation" в поле «Примечания и благодарности».](images/notes_and_credits.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Notes and Credits' box, showing "Made by The Raspberry Pi Foundation" typed in.](images/notes_and_credits.png){:width="300px"}
+![В поле «Примечания и благодарности» указано "Сделано The Raspberry Pi Foundation".](images/notes_and_credits.png){:width="300px"}
 
 --- /print-only ---
 
-- Click the **Copy Link** button to get the link to your project. You can send this link to other people by email or text, or on social media.
+- Нажмите кнопку **Копировать ссылку**, чтобы получить ссылку на свой проект. Ты можешь отправить эту ссылку другим людям по электронной почте, в текстовом сообщении или в социальных сетях.
 
 --- no-print ---
 
-![Clicking on 'Copy Link', which opens a 'Copy Link' dialog box. Then, in the dialog box, highlighting the URL under 'Link', and selecting 'Copy link'.](images/copy_link.gif)
+![Нажатии на «Копировать ссылку» открывает диалоговое окно «Копирование ссылки». Затем в диалоговом окне выделите URL-адрес в поле «Ссылка» и выберите «Копировать ссылку».](images/copy_link.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![The 'Copy link' button highlighted, in the 'Copy Link' dialog box.](images/copy_link.png){:width="300px"}
+![Кнопка «Копировать ссылку» выделена в диалоговом окне «Копирование ссылки».](images/copy_link.png){:width="300px"}
 
 --- /print-only ---
 
-Scratch provides the ability to comment on your own and other people's projects. If you do not want to allow people to comment on your project, you should turn off commenting. To turn off commenting, set the slider above the **Comments** box to **Commenting off**.
+Scratch дает возможность комментировать свои и чужие проекты. Если ты не хочешь, чтобы люди комментировали твой проект, отключи комментирование. Чтобы отключить комментирование, перейди на страницу проекта и установи ползунок над полем **Комментарии** в положение **Комментирование отключено**.
 
-![The slider above the 'Comments' box is in the 'Commenting off' position. A message is shown saying "Sorry, comment posting has been turned off for this project."](images/comments-off.png){:width="300px"}
+![Ползунок над полем «Комментарии» находится в положении «Комментирование отключено». Отображается сообщение "Сожалеем, публикация комментариев для этого проекта отключена."](images/comments-off.png){:width="300px"}
